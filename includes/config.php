@@ -16,7 +16,7 @@ define('DEBUG', false);
  */
 define('PROOT', '');
 
-define('HLS_API_SECRET_KEY', '12345');
+define('HLS_API_SECRET_KEY', 'ddWA2322!35e7');
 
 $allowed_domains = ['localhost'];
 
